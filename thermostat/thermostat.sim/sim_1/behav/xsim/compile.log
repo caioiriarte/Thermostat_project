@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/caiov/Vivado_projects/thermostat/thermostat.srcs/sources_1/new/counter_package.vhd" into library count_lib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/caiov/Vivado_projects/thermostat/thermostat.srcs/sources_1/new/thermostat.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'THERMOSTAT'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/caiov/Vivado_projects/thermostat/thermostat.srcs/sources_1/new/t_thermostat.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'T_THERMOSTAT'

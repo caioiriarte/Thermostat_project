@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl count_lib  \
+"../../../../thermostat.srcs/sources_1/new/counter_package.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../thermostat.srcs/sources_1/new/thermostat.vhd" \
+"../../../../thermostat.srcs/sources_1/new/t_thermostat.vhd" \
+
+# Do not sort compile order
+nosort
